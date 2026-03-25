@@ -1,6 +1,6 @@
 # Clean
 
-Internal project management tool built to replace ClickUp — purpose-built for Buzzebees Data & AI team.
+A personal project management tool — self-hosted, free, and built for anyone who wants full control over their tasks and workflows.
 
 > Simple. Colorful. Powerful. Meaningful.
 
@@ -8,13 +8,15 @@ Internal project management tool built to replace ClickUp — purpose-built for 
 
 ## What is Clean?
 
-Clean is a self-hosted web application that replaces ClickUp for internal project and task management. Built around Buzzebees' actual workflows, including a unique **Human % : AI %** effort tracking column that reflects our AI-first operating model.
+Clean is a self-hosted web application for managing projects, tasks, and team workflows. Built as a personal project and open to anyone interested in using or contributing to it.
 
-**Why we built it:**
-- Eliminate ClickUp per-seat licensing cost entirely
+No subscriptions. No per-seat fees. No data sent to third parties. You own everything.
+
+**Why Clean?**
+- Free forever — self-host it yourself at zero cost
 - Unlimited users, projects, tasks, and custom columns
-- Tailored to how the Data & AI team actually works
-- All data stays on Buzzebees infrastructure
+- A unique **Human % : AI %** column to track how much of your work is AI-assisted
+- Clean, fast UI that gets out of your way
 
 ---
 
@@ -105,4 +107,6 @@ AZURE_AD_CLIENT_SECRET=
 
 ---
 
-*Built by Data & AI Team — Buzzebees*
+## Contributing
+
+Interested in using or contributing to Clean? Feel free to fork the repo, open issues, or submit pull requests. All contributions are welcome.
