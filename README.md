@@ -105,12 +105,4 @@ AZURE_AD_CLIENT_SECRET=
 
 ---
 
-## Documentation
-
-- [`requirements.md`](../repo_project_tracker/requirements.md) — Full business case and feature specifications
-- [`design.md`](../repo_project_tracker/design.md) — UI/UX design system and component specs
-- [`increments.md`](../repo_project_tracker/increments.md) — 54-increment build plan (testable steps)
-
----
-
 *Built by Data & AI Team — Buzzebees*
